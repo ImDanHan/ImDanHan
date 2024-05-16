@@ -1,6 +1,6 @@
 # About me
-
-Hi, im Daniel Montresor. I have been studying programming for 1 month, focusing on the Python language, particularly in backend development. Currently, I am participating in Vivo's bootcamp, where I am honing my skills and knowledge. My goal is to continually professionalize in this field, always seeking new opportunities for learning and growth in the technology sector. 😎
+# Hi, im Daniel Montresor ✌
+I have been studying programming for 1 month, focusing on the Python language, particularly in backend development. Currently, I am participating in Vivo's bootcamp, where I am honing my skills and knowledge. My goal is to continually professionalize in this field, always seeking new opportunities for learning and growth in the technology sector. 😎
 
 # Social
 
